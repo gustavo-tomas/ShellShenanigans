@@ -1,2 +1,2 @@
 # ShellShenanigans
-The most useful shell commands ever made
+The best shell scripts ever made
