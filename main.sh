@@ -20,7 +20,7 @@ while true ; do
     valid=$(validate_path)
     if [ $valid -eq 1 ] ; then
         echo "Running $name..."
-        $name "server/index.html" &
+        $name "static/index.html" &
         exit
     else
         echo "$name not found"
